@@ -1,0 +1,7 @@
+C:\Users\aleca\Desktop\Universidad\Tercer cuatri\PROGRAMACIÓN II\prueba\Ejercicio 1\Ejercicio 1\bin\Debug\Ejercicio 1.exe.config
+C:\Users\aleca\Desktop\Universidad\Tercer cuatri\PROGRAMACIÓN II\prueba\Ejercicio 1\Ejercicio 1\bin\Debug\Ejercicio 1.exe
+C:\Users\aleca\Desktop\Universidad\Tercer cuatri\PROGRAMACIÓN II\prueba\Ejercicio 1\Ejercicio 1\bin\Debug\Ejercicio 1.pdb
+C:\Users\aleca\Desktop\Universidad\Tercer cuatri\PROGRAMACIÓN II\prueba\Ejercicio 1\Ejercicio 1\obj\Debug\Ejercicio 1.csproj.AssemblyReference.cache
+C:\Users\aleca\Desktop\Universidad\Tercer cuatri\PROGRAMACIÓN II\prueba\Ejercicio 1\Ejercicio 1\obj\Debug\Ejercicio 1.csproj.CoreCompileInputs.cache
+C:\Users\aleca\Desktop\Universidad\Tercer cuatri\PROGRAMACIÓN II\prueba\Ejercicio 1\Ejercicio 1\obj\Debug\Ejercicio 1.exe
+C:\Users\aleca\Desktop\Universidad\Tercer cuatri\PROGRAMACIÓN II\prueba\Ejercicio 1\Ejercicio 1\obj\Debug\Ejercicio 1.pdb
